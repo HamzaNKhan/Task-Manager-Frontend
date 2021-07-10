@@ -1,13 +1,13 @@
 # Task-Manager-Frontend
 
-This application is based on MEAN stack.
+This application is based on the MEAN stack.
 Crud operations post delete get methods are used to 
-Perform operations on database.
+Perform operations on the database.
 Mongoose is used for designing Schema and data is stored 
 on MongoDB Atlas so can be accessed from anywhere.
 
 ## Functionality
-The application has option to add a list after adding 
-a list user can define number of tasks init.
-On left user's list are showing and after clicking on each
-list it's task show up on right. 'x' is given to delete the list ot task.
+The application has the option to add a list after adding 
+a list user can define a number of tasks in it.
+On the left user's list is showing and after clicking on each
+list its task shows up on right. 'x' is given to delete the task list.
